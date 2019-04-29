@@ -14,8 +14,8 @@ var ws = new WebSocket(wsAddress);
 var authenticated = false;
 
 //User & Password
-var userLogin = "";
-var userPass = "";
+var userLogin = "fb558394@gmail.com";
+var userPass = "Felipe_9898";
 var userId = "0";
 var sessionToken = "";
 
